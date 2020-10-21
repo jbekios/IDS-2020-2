@@ -11,6 +11,6 @@
 
 ## Laboratorio 02: Web scraping y visualización
  
- *  **Laboratorio02-alumno.ipynb**: Plantilla del laboratorio.
-
+*  **Laboratorio02-alumno.ipynb**: Plantilla del laboratorio.
+*  **Laboratorio02-profesor-sinsol.ipynb**: Laboratorio con todos los ejercicios. Sin solución a ejercicios propuestos.
 
