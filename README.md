@@ -14,3 +14,6 @@
 *  **Laboratorio02-alumno.ipynb**: Plantilla del laboratorio.
 *  **Laboratorio02-profesor-sinsol.ipynb**: Laboratorio con todos los ejercicios. Sin solución a ejercicios propuestos.
 
+## Laboratorio 03: Teoría de grafos
+ 
+*  **Laboratorio03.ipynb**: Laboratorio de teoría de grafos. Con solución.
