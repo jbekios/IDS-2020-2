@@ -17,4 +17,4 @@
 ## Laboratorio 03: Teoría de grafos
  
 *  **Laboratorio03.ipynb**: Laboratorio de teoría de grafos. Con solución.
-*  **Laboratorio03-node-color.ipynb**: Laboratorio de teoría de grafos. Con solución y problema para pintar los diez primeros nodos de verde y el resto de rojo resuelto.
+*  **Laboratorio03-color-node.ipynb**: Laboratorio de teoría de grafos. Con solución y problema para pintar los diez primeros nodos de verde y el resto de rojo resuelto.
