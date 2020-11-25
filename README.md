@@ -18,3 +18,7 @@
  
 *  **Laboratorio03.ipynb**: Laboratorio de teoría de grafos. Con solución.
 *  **Laboratorio03-color-node.ipynb**: Laboratorio de teoría de grafos. Con solución y problema para pintar los diez primeros nodos de verde y el resto de rojo resuelto.
+
+## Laboratorio 04: Regresión lineal
+ 
+*  **lab04_RegresionLineal_Repaso_Alumno-sin.ipynb**: Laboratorios de regresión lineal sin código para trabajar en l ahora de clases.
