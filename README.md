@@ -4,6 +4,13 @@
 
 **Segundo semestre del 2020**
 
+# Clases
+
+## Clases 13 y 14: Validación, regularización, kernels y clasificación no lineal
+*   **modelos_no_lineales-alumno.ipynb**: Presentación y código de clase 13 y 14.
+
+# Laboratorios
+
 ## Laboratorio 01: Introducción a Python
 
 *   **Laboratorio01_IntroPython-alumno.ipynb:** Plantilla del laboratorio.
