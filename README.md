@@ -28,4 +28,13 @@
 
 ## Laboratorio 04: Regresión lineal
  
-*  **lab04_RegresionLineal_Repaso_Alumno-sin.ipynb**: Laboratorios de regresión lineal sin código para trabajar en l ahora de clases.
+*  **laboratorio04_RegresionLineal_Repaso_Alumno-sin.ipynb**: Laboratorios de regresión lineal con  base código para trabajar en l ahora de clases.
+
+## Laboratorio 05: Clasificación lineal y no lineal
+
+* **modelos_no_lineales-alumno.ipynb**: Clase de modelos lineales y modelos no lineales. Regularización.
+* **Laboratorio05-clasificacion-lineal-no-lineal.ipynb**: Laboratorio de clasificación lineal y no lineal para la estimación de la emoción sobre textos. Se analiza la base de datos de _Cornell Natural Language Processing Group_ que contiene 2000 documentos. La mitad de los documentos contienen reseñas positivas sobre una película, mientras que la otra mitad contiene reseñas negativas. 
+
+## Laboratorio 06: Introducción a las probabilidades (incertidumbre)
+* **Intro-probabilidades.ipynb**: Clase de introducción a las probabilidades.
+* **Laboratorio06-Incertidumbre.ipynb**: Se desea reconocer si una cara pertenece a un hombre o una mujer dada una imagen de una cara. La implementación del clasificador se debe realizar utilizando el material de probabilidades visto en clases.
