@@ -38,3 +38,8 @@
 ## Laboratorio 06: Introducción a las probabilidades (incertidumbre)
 * **Intro-probabilidades.ipynb**: Clase de introducción a las probabilidades.
 * **Laboratorio06-Incertidumbre.ipynb**: Se desea reconocer si una cara pertenece a un hombre o una mujer dada una imagen de una cara. La implementación del clasificador se debe realizar utilizando el material de probabilidades visto en clases.
+
+## Laboratorio 07: Redes Neuronales
+* **RedesNeuronales.ipynb**: Laboratorio completo de redes neuronales con una tarea.
+* **piel-ucn.jpeg**: Imagen de prueba.
+* **Skin_NonSkin.txt**: Base de datos de pixeles RGB y etiqueta de piel y no piel.
