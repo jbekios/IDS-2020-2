@@ -4,6 +4,8 @@
 
 **Segundo semestre del 2020**
 
+Para ver los notebooks como presentaciones ir al siguiente [link](https://mybinder.org/v2/gh/jbekios/IDS-2020-2/master).
+
 # Clases
 
 ## Clases 13 y 14: Validación, regularización, kernels y clasificación no lineal
